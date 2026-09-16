@@ -23,15 +23,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/st-bernard-software.png
 name: St. Bernard Software
-description: 'St. Bernard Software was a San Diego-based web-security company (iPrism
-  web-filtering appliances) that rebranded to EdgeWave and whose technology and domains now
-  resolve to the successor cybersecurity provider GoSecure (gosecure.ai / gosecure.net). The
-  St. Bernard Software brand is defunct: an enrichment pass on 2026-07-21 confirmed stbernard.com
-  presents a *.gosecure.net certificate and edgewave.com 301-redirects to gosecure.ai. The
-  successor company GoSecure offers 24/7 managed detection and response services and publishes
-  no developer portal or public API. This company therefore has no independent, live API surface
-  to enrich, and no API artifacts were created (attributing GoSecure''s surface to this legacy
-  slug would conflate two distinct companies).'
+description: 'St. Bernard Software was a San Diego-based web-security company (iPrism web-filtering appliances)
+  that rebranded to EdgeWave and whose technology and domains now resolve to the successor cybersecurity
+  provider GoSecure (gosecure.ai / gosecure.net). The St. Bernard Software brand is defunct: an enrichment
+  pass on 2026-07-21 confirmed stbernard.com presents a *.gosecure.net certificate and edgewave.com 301-redirects
+  to gosecure.ai. The successor company GoSecure offers 24/7 managed detection and response services and
+  publishes no developer portal or public API. This company therefore has no independent, live API surface
+  to enrich, and no API artifacts were created (attributing GoSecure''s surface to this legacy slug would
+  conflate two distinct companies).'
 url: https://raw.githubusercontent.com/api-evangelist/st-bernard-software/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -41,9 +40,9 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 x-successor: gosecure
-x-status: defunct-brand
+x-status: defunct
 tags:
 - Company
 - Security
