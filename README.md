@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-St. Bernard Software is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+St. Bernard Software was a San Diego-based web-security company (iPrism web-filtering appliances) that rebranded to EdgeWave and whose technology and domains now resolve to the successor cybersecurity provider GoSecure (gosecure.ai / gosecure.net). The St. Bernard Software brand is defunct: an enrichment pass on 2026-07-21 confirmed stbernard.com presents a *.gosecure.net certificate and edgewave.com 301-redirects to gosecure.ai. The successor company GoSecure offers 24/7 managed detection and response services and publishes no developer portal or public API. This company therefore has no independent, live API surface to enrich, and no API artifacts were created (attributing GoSecure's surface to this legacy slug would conflate two distinct companies).
+
+**Areas:** Company · Security · Web Filtering · Cybersecurity · Defunct
+
+## St. Bernard Software on APIs.io (historical record)
+
+Everything profiled for St. Bernard Software is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/st-bernard-software/](https://apis.io/providers/st-bernard-software/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for St. Bernard Software: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/st-bernard-software/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
